@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Jost&family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Jost&family=Noto+Sans+Tamil&family=Playfair+Display+SC&display=swap');
+body{
+    background-color: #CD1517 !important;
+}
+.divone{
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 20px;
+}
+.login{
+    color: #CD1517;
+    font-family: 'Jost', sans-serif;
+font-family: 'Playfair Display SC', serif;
+}
+.loginform{
+    font-family: 'Tektur',cursive;
+    color:#fff;
+}
+.red{
+    color: red;
+}
+.form-control{
+    border-radius: 0px !important;
+    border: none !important;
+    border-bottom: 2px solid #CD1517 !important;
+    background-color: #F0F8FF !important;
+    margin-bottom: 10px !important;
+    
+}
+.btn-secondaryy{
+    background-color: #CD1517 !important;
+    color: #fff !important;
+    font-family: 'Jost', sans-serif;
+font-family: 'Playfair Display SC', serif !important;
+}
+.btn-secondaryy:hover{
+    color: #CD1517 !important;
+    background-color: #fff !important;
+    border: 2px solid #CD1517 !important;
+}
+.img{
+    background-color: #F0F8FF;
+    width: 546px !important;
+    max-height: 474px;
+    border-radius: 20px;
+}
+.c1{
+    font-family: 'Jost', sans-serif;
+font-family: 'Playfair Display SC', serif;
+}
+.form-check-label{
+    font-family: 'Jost', sans-serif;
+font-family: 'Playfair Display SC', serif;
+}
+.form-check-input:checked {
+    background-color: #CD1517 !important;
+    border-color: #CD1517 !important;
+  }
+  .form-check-input:focus {
+    border-color: #CD1517 !important;
+    box-shadow: #CD1517 !important;
+}
